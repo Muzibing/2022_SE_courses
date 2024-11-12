@@ -2,4 +2,7 @@
 
 这里只放了部分题库和历年卷
 
-教材（C++ primer）太大了放不上来
+中文版教材链接：https://pan.baidu.com/s/1RsKoMTWIeGXbugPbZHiArw?pwd=i4j1 
+
+英文版教材链接：https://pan.baidu.com/s/1oCojl2LiCWbB5lKjHfdU-Q?pwd=i4j1 
+
