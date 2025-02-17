@@ -13,3 +13,7 @@ https://zjucomp.net/docs/terms/
 这一届是qjs老师出题 王道作用不大 有用的是lkj100题和qjs班小测题
 
 本班作业的答案： https://zjucomp.net/docs/terms/
+
+计网教材第五版中文版： https://pan.baidu.com/s/1xwXi9ziJS_9dqKA8M_pO4Q?pwd=sr84
+
+2025王道计算机网络有版权问题 不方便放在这里 有需要邮件联系^_^
