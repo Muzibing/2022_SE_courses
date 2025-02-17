@@ -11,3 +11,5 @@ lxq班助教wxbgg总结的知识点和有用网站： https://zjucomp.net/docs/i
 https://zjucomp.net/docs/terms/
 
 这一届是qjs老师出题 王道作用不大 有用的是lkj100题和qjs班小测题
+
+本班作业的答案： https://zjucomp.net/docs/terms/
