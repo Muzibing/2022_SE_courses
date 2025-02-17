@@ -6,6 +6,8 @@
 
 笔记有时清川的  https://sh17c.top/LessonsNotes/D3QD_ComputerNetwork/
 
+修佬的  https://note.isshikih.top/cour_note/D3QD_ComputerNetwork/
+
 lxq班助教wxbgg总结的知识点和有用网站： https://zjucomp.net/docs/ios/
 
 https://zjucomp.net/docs/terms/
