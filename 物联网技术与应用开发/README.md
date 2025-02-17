@@ -15,3 +15,5 @@
 实验网站：https://gitee.com/emnets/emnets_experiment
 
 下面附上自己的实验报告，还有自己的A4纸（不过手写的看不太清楚，还是建议看ppt来写）
+
+时清川的笔记：  https://sh17c.top/LessonsNotes/D3Q_IoT/
